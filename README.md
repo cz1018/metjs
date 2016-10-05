@@ -1,4 +1,4 @@
 metjs
 =====
 
-Javascript framework for weather data processing.
+Javascript framework for meteorology data processing.
